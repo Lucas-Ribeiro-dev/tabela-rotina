@@ -9,8 +9,13 @@
 
   td {
     font-size: 85%;
-    word-break: break-all;
+    word-break: keep-all;
   }
+
+  #faculdade span, #academia span {
+    font-size: 75%;
+  }
+
   th {
     font-size: 70%;
   }
